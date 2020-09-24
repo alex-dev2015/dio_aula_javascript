@@ -46,6 +46,3 @@ if (idade >= 18) {
   alert("Menor de idade")
 }
 
-Alert ("Digital Innovation One:" + formacoes)
-
-
